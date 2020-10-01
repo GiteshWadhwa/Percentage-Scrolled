@@ -8,12 +8,10 @@ header {
     font-size: 1rem;
 }
 #progress-bar {
-    height: 30px;
     width: 20vw;
     background-color: transparent;
     text-align: center;
     color: #1b994d;
-    border-radius: 20px;
     box-shadow: 0px 0px 20px grey, 0px 0px 5px green;
 }
 #progress-bar span {
@@ -28,8 +26,6 @@ header {
     text-align: justify;
     color: grey;
     line-height: 28px;
-    font-size: 1.1rem;
-    margin: auto;
 }
 
 /* Portfolio Section */
